@@ -1,0 +1,16 @@
+MONSTER
+appearance:green big stinky
+name:Shrek
+
+EVIL
+crime:turned princess into a toad
+location:far far away
+name:Koschei the Deathless
+skills:immortality
+weaponType:magic
+
+MONSTER
+appearance:curly hair dirty belly
+name:alabai
+
+
